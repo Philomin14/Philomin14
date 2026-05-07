@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Philip 👋
+
+**[Computer Science with Cyber Security]**
+
+[University of Huddersfield]
 
 <!--
 **Philomin14/Philomin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
